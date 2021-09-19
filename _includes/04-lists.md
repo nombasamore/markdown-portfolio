@@ -1,4 +1,4 @@
-* Horses
-* Dogs
-* People
-* My family
+* Horses 🐴:
+* Dogs 🐶:
+* People 👧:
+* My family 👪:
