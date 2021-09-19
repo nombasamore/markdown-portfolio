@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Horses
+* Dogs
+* People
+* My family
